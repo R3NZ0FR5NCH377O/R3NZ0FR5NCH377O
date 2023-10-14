@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hola, soy Renzo Franchetto. Soy un DevOps Engineer con 2 años de experiencia en tecnologías como Jenkins, Python, HTML, CSS, JS, Java, Terraform y AWS. Actualmente, estoy estudiando Desarrollo Web Fullstack en Java. Me apasiona la automatización y la nube. Puedes conectarte conmigo en LinkedIn: [Renzo Franchetto](https://www.linkedin.com/in/renzo-franchetto-3b97aa22b/). Estoy listo para colaborar en proyectos innovadores. ¡Hablemos!<br>
+![gif](https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif)
 
 
 
