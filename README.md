@@ -1,5 +1,6 @@
 
-![its-fine](https://github.com/R3NZ0FR5NCH377O/R3NZ0FR5NCH377O/assets/65681848/f0e79eb0-463c-4f8b-9d6a-121a7f80c87b)
+![its-fine](https://github.com/R3NZ0FR5NCH377O/R3NZ0FR5NCH377O/assets/65681848/f0e79eb0-463c-4f8b-9d6a-121a7f80c87b)![its-fine](https://github.com/R3NZ0FR5NCH377O/R3NZ0FR5NCH377O/assets/65681848/475035de-737f-44e9-8a07-b42019218776)
+
 
 # 💫 About Me:
 Hola, soy Renzo Franchetto. Soy un DevOps Engineer 
