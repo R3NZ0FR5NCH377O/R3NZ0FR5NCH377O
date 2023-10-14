@@ -1,4 +1,3 @@
-![its-fine](https://github.com/R3NZ0FR5NCH377O/R3NZ0FR5NCH377O/assets/65681848/aedf7870-1210-4194-828a-3f314d5619fa)![cat-computer](https://github.com/R3NZ0FR5NCH377O/R3NZ0FR5NCH377O/assets/65681848/6c205404-728e-41e0-9dcf-d8eb9819b6bf)
 
 
 # 💫 About Me:
