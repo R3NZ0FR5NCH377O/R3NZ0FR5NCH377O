@@ -1,6 +1,4 @@
 ![its-fine](https://github.com/R3NZ0FR5NCH377O/R3NZ0FR5NCH377O/assets/65681848/aedf7870-1210-4194-828a-3f314d5619fa)
-
-
 # 💫 About Me:
 Hola, soy Renzo Franchetto. Soy un DevOps Engineer con 2 años de experiencia en tecnologías como Jenkins, Python, HTML, CSS, JS, Java, Terraform y AWS. Actualmente, estoy estudiando Desarrollo Web Fullstack en Java. Me apasiona la automatización y la nube. Puedes conectarte conmigo en LinkedIn: [Renzo Franchetto](https://www.linkedin.com/in/renzo-franchetto-3b97aa22b/). Estoy listo para colaborar en proyectos innovadores. ¡Hablemos!<br>
 
