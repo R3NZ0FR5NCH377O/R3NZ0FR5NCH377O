@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Hola, soy Renzo Franchetto. Soy un DevOps Engineer con +2 años de experiencia en tecnologías como Jenkins, java, flask, fastAPI, Django, Python, JS, Java, Terraform, k8s, docker, grafana, prometheus y AWS. Me gusta la automatización y la nube. Puedes conectarte conmigo en LinkedIn: [Renzo Franchetto](https://www.linkedin.com/in/renzo-franchetto-3b97aa22b/). Estoy listo para colaborar en proyectos innovadores. ¡Hablemos!<br>
+Hola, soy Renzo Franchetto. Soy un DevOps Engineer con +2 años de experiencia en tecnologías como Jenkins, java, flask, fastAPI, Django, Python, JS, Java, Terraform, k8s, docker, grafana, prometheus y AWS. Me gusta la automatización y la nube. Puedes conectarte conmigo en LinkedIn: [Renzo Franchetto](www.linkedin.com/in/renzo-franchetto). Estoy listo para colaborar en proyectos innovadores. ¡Hablemos!<br>
 
 
 
